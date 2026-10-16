@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Killer Detective Game
 
 A nostalgic, pass-and-play party game for **3–20 players**.
@@ -24,3 +25,7 @@ A nostalgic, pass-and-play party game for **3–20 players**.
 - **3 players:** one Detective and two Civilians; one of those Civilians is the Blinker. The Police Officer role is skipped so there is someone for the Blinker to wink at.
 
 The role dealing is private: pass the phone around and have each player reveal their role one at a time.
+=======
+# KILLER-DETECTIVE-GAME-
+The childhood game in which there was at least 1 police 1 killer and few civilians and the weapon used by killer is the blink of an eye to murder an innocent.
+>>>>>>> 21ec1bae74cd0b4b46d3425b853223b2666d1442
